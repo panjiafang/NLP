@@ -118,7 +118,7 @@ NLP中最基本的语言单位：词。
 
 针对N元模型的问题，提出了神经网络语言模型。
 
-论文地址：[A Neural Probabilistic Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+论文地址：[A Neural Probabilistic Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)，对应pdfs文件夹下bengio03a.pdf
 
 ![image-20230808102406667](/images/image-20230808102406667.png)
 

@@ -172,3 +172,13 @@ RNN递归的更新顺序记忆以此来对序列数据进行建模
 一般用于计算机视觉领域(Computer Vision, CV)，后面用在了NLP领域处理如：情感分类、关系分类等问题
 
 归功于CNN在提取局部和位置不变的特征方面的优势
+
+#### 应用场景
+
+- 目标检测(Object Detection)
+
+- 视频分类(Video Classification)
+
+- 语音识别(Speech Recognition)
+
+- 文本分类(Text Classification)

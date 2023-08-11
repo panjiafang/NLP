@@ -8,3 +8,9 @@
 二. [大模型基础](./Big_Model_Basics.md)
 
 介绍了大模型的基础、大模型的优势、大模型的范式
+
+三. [神经网络基础](./Neural_Network_Basics.md)
+
+介绍了神经网络的基础、神经网络的训练、Word2Vec、循环神经网络、卷积神经网络
+
+四. [Transformer](./Transformer.md)(TODO)
